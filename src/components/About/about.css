@@ -1,0 +1,74 @@
+.about {
+  height: 250vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.about-container {
+  width: 80%;
+  height: 270vh;
+}
+.about-top {
+  margin-bottom: 50px;
+  color: rgb(12, 12, 12);
+  padding-top: 30px;
+}
+.about-top h1 {
+  font-size: 90px;
+  text-align: left;
+  text-shadow: 1px 1px 1px rgb(94, 94, 94), 1px 2px 1px rgb(94, 94, 94),
+    1px 3px 1px rgb(94, 94, 94), 1px 4px 1px rgb(94, 94, 94),
+    1px 5px 1px rgb(94, 94, 94);
+}
+.top-descrip {
+  color: rgb(29, 29, 29);
+  font-size: 24px;
+  font-weight: 700;
+  text-transform: uppercase;
+  text-align: start;
+}
+.bot-descrip {
+  color: rgb(29, 29, 29);
+  line-height: 30px;
+  font-size: 18px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.bot-descrip p {
+  text-align: start;
+}
+.about-img {
+  margin: 20px;
+  height: 200px;
+  width: 200px;
+}
+.about-img img {
+  height: 100%;
+  width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.technologies {
+  color: rgb(29, 29, 29);
+  line-height: 30px;
+  padding-top: 40px;
+}
+.tech {
+  font-size: 20px;
+  margin: 10px 0 10px 0;
+}
+.technologies h3 {
+  font-size: 18px;
+  font-weight: 500;
+}
+
+@media (max-width: 720px) {
+  .about-top h1 {
+    font-size: 70px;
+  }
+  .top-descrip {
+    font-size: 20px;
+  }
+}
