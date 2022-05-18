@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/JaysonDellova/static/css/main.f56a5c42.css",
-    "main.js": "/JaysonDellova/static/js/main.5cd8503e.js",
+    "main.js": "/JaysonDellova/static/js/main.e690031d.js",
     "static/media/img2.jpg": "/JaysonDellova/static/media/img2.f12e956215181352636d.jpg",
     "static/media/poring1.png": "/JaysonDellova/static/media/poring1.8549b2e37feee31b863f.png",
     "static/media/coin-tracker.png": "/JaysonDellova/static/media/coin-tracker.5bb95fc4ddc4a53361d8.png",
@@ -10,10 +10,10 @@
     "static/media/thesis.png": "/JaysonDellova/static/media/thesis.9d86d37f9ab3c8679a69.png",
     "index.html": "/JaysonDellova/index.html",
     "main.f56a5c42.css.map": "/JaysonDellova/static/css/main.f56a5c42.css.map",
-    "main.5cd8503e.js.map": "/JaysonDellova/static/js/main.5cd8503e.js.map"
+    "main.e690031d.js.map": "/JaysonDellova/static/js/main.e690031d.js.map"
   },
   "entrypoints": [
     "static/css/main.f56a5c42.css",
-    "static/js/main.5cd8503e.js"
+    "static/js/main.e690031d.js"
   ]
 }
